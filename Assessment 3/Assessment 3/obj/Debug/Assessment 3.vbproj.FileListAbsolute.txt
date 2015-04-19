@@ -1,0 +1,29 @@
+C:\Users\kb019\AppData\Local\Temporary Projects\Assessment 3\bin\Debug\Assessment 3.exe.config
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\bin\Debug\Assessment 3.exe.config
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\bin\Debug\Assessment 3.exe
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\bin\Debug\Assessment 3.pdb
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\bin\Debug\Assessment 3.xml
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\MainWindow.baml
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\MainWindow.g.vb
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\Application.g.vb
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\Assessment 3_MarkupCompile.cache
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\Assessment 3.g.resources
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\Assessment_3.Resources.resources
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\Assessment 3.vbproj.GenerateResource.Cache
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\Assessment 3.exe
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\Assessment 3.xml
+S:\Software\Kaethe Basoc\Russian Roulette\Assessment 3\Assessment 3\obj\Debug\Assessment 3.pdb
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\bin\Debug\Assessment 3.exe.config
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\bin\Debug\Assessment 3.exe
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\bin\Debug\Assessment 3.pdb
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\bin\Debug\Assessment 3.xml
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\MainWindow.baml
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\MainWindow.g.vb
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\Application.g.vb
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\Assessment 3_MarkupCompile.cache
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\Assessment 3.g.resources
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\Assessment_3.Resources.resources
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\Assessment 3.vbproj.GenerateResource.Cache
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\Assessment 3.exe
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\Assessment 3.xml
+S:\Software\Kaethe Basoc\Assessment 3\Assessment 3\obj\Debug\Assessment 3.pdb
