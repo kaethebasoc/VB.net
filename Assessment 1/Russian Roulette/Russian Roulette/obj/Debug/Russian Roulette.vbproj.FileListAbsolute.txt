@@ -1,0 +1,56 @@
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\bin\Debug\Russian Roulette.exe
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\bin\Debug\Russian Roulette.pdb
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\bin\Debug\Russian Roulette.xml
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\obj\Debug\Russian_Roulette.Resources.resources
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\obj\Debug\Russian Roulette.vbproj.GenerateResource.Cache
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\obj\Debug\Russian Roulette.exe
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\obj\Debug\Russian Roulette.xml
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\obj\Debug\Russian Roulette.pdb
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\obj\Debug\Russian_Roulette.RRGame.resources
+C:\Users\kb019\AppData\Local\Temporary Projects\Russian Roulette\obj\Debug\Russian_Roulette.RRHighScore.resources
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.xml
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.pdb
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.xml
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.vbprojResolveAssemblyReference.cache
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRGameOver.resources
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RussianRoulette.resources
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Resources.resources
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRHighScore.resources
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRGame.resources
+C:\Users\Kaethe\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.vbproj.GenerateResource.Cache
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.xml
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.pdb
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.xml
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.vbprojResolveAssemblyReference.cache
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRGameOver.resources
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RussianRoulette.resources
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Resources.resources
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRHighScore.resources
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRGame.resources
+\\telmar\users\kb019\Desktop\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.vbproj.GenerateResource.Cache
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.pdb
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.xml
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRGameOver.resources
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RussianRoulette.resources
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Resources.resources
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRHighScore.resources
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.RRGame.resources
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.vbproj.GenerateResource.Cache
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.xml
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.manifest
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.application
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe.manifest
+S:\Software\Kaethe Basoc\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.application
